@@ -1,0 +1,2 @@
+# PwrGSN
+Głębokie sieci neuronowe
