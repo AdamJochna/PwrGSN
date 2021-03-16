@@ -1,2 +1,0 @@
-# PwrGSN
-Głębokie sieci neuronowe
